@@ -1,6 +1,7 @@
 ## Lyric Canvas
 初音ミク「マジカルミライ2024」プログラミング・コンテストに応募した作品です。
 開発メンバー：4人
+<br>
 デモ動画：https://youtu.be/emWsGPH_wdg
 
 <br>
